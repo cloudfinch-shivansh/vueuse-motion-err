@@ -1,6 +1,5 @@
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    {{ DEFAULT_PLOT_OPTIONS_PIE }}
   </div>
 </template>
